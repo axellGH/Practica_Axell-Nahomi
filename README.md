@@ -1,4 +1,5 @@
-#                                    Practica_Axel/nahomi
+<h1 align="center">Practica_Axel/nahomi</h1>   
+
 ## 📚[                                   -Practica-                                      ]
 ## Hola
 - Practica 
