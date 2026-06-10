@@ -1,6 +1,6 @@
 # Practica_Axel/nahomi
 [-------------------------------------- Practica -------------------------------------------]
-# Hola
+. Hola
 - Practica 
 # xd
 # por fin
