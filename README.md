@@ -4,8 +4,7 @@
 
 # Conceptos
 
-<p align="center">
-        Programacion
+<h2 align="center">Programacion</h2>
   </p>
 
 
