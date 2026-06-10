@@ -13,12 +13,14 @@
 ### computadora pueda entender y ejecutar. funciona como una receta de cocina, donde una serie de pasos 
 ### lógicos y ordenados conducen a un resultado específico.
 
+
 <h2 align="center">Algoritmo</h2>
 
 ### Un algoritmo es un conjunto de instrucciones o reglas paso a paso, ordenadas y finitas, diseñadas para
 resolver un problema,  ejecutar una tarea o realizar un cálculo. En términos sencillos, funciona igual
 que una receta de cocina: una serie de pasos que transforman ciertos elementos iniciales (datos) en un
 resultado final.
+
 
 <h2 align="center">Programa</h2>
 
