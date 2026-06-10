@@ -9,9 +9,9 @@
   </p>
 
 
-###La programacion es el proceso de diseñar y escribir un conjunto de instrucciones precisas que una 
-###computadora pueda entender y ejecutar. funciona como una receta de cocina, donde una serie de pasos 
-###lógicos y ordenados conducen a un resultado específico.
+### La programacion es el proceso de diseñar y escribir un conjunto de instrucciones precisas que una 
+### computadora pueda entender y ejecutar. funciona como una receta de cocina, donde una serie de pasos 
+### lógicos y ordenados conducen a un resultado específico.
 
 <h2 align="center">Algoritmo</h2>
 
