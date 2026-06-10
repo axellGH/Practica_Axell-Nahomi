@@ -37,3 +37,31 @@
 ### El pseudocódigo es una descripción detallada y estructurada de un algoritmo o proceso informático, 
 ### redactada en un lenguaje natural (como el español) combinado con convenciones de programación. Actúa como
 ### un borrador para planificar la lógica de un programa antes de escribirlo en un código fuente ejecutable.
+
+<h2 align="center">"Variable"</h2>
+
+### Una variable en programación es un espacio reservado en la memoria de un ordenador que se utiliza para
+### almacenar datos que pueden ser manipulados y recuperados durante la ejecución de un programa.
+
+<h2 align="center">"Entrada"</h2>
+
+### La Entrada es el proceso mediante el cual un programa recibe datos o informacion del Usuario o de otra 
+### fuente externa. Estos datos son necesarios para que el programa pueda realizar una tarea especifica y 
+### obtener resultados.
+
+<h2 align="center">"Proceso"</h2>
+
+### El proceso es el conjunto de instrocciones, operaciones o calculos que realiza el programa utilizando
+### los datos de entrada. Durante esta etapa, la informacion es analizada, transformada o manipulada para
+### Para Generar un resultado.
+
+<h2 align="center">"Salida"</h2>
+
+### La salida es la informacion o resultado que el programa presenta al usuario despues de ejecutar el proceso.
+### Puede mostrarse en pantalla, guardarse en un archivo o enviarse a otro dispositivo.
+
+<h2 align="center">"Python"</h2>
+
+### Python es un lenguaje de programacion de alto nivel, interpretado y de proposito general. Se caracteriza por
+### su sintaxis sencilla y legible, lo que facilita el aprendisaje y el desarrollo de programas para distintas 
+### areas como desarrollo wed, inteligencia artificial, analisis de datos, automatizacion y software de escritorio
