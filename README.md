@@ -9,11 +9,11 @@
   </p>
 
 
-### La programacion es el proceso de diseñar y escribir un conjunto de instrucciones precisas que una 
+<h3 align="center"> La programacion es el proceso de diseñar y escribir un conjunto de instrucciones precisas que una 
 computadora pueda entender y ejecutar. funciona como una receta de cocina, donde una serie de pasos 
-lógicos y ordenados conducen a un resultado específico.
+lógicos y ordenados conducen a un resultado específico. </h3>
 
-<h2 align="center">Algoritm</h2>
+<h2 align="center">Algoritmo</h2>
 
 ### Un algoritmo es un conjunto de instrucciones o reglas paso a paso, ordenadas y finitas, diseñadas para
 resolver un problema,  ejecutar una tarea o realizar un cálculo. En términos sencillos, funciona igual
