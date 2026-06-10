@@ -4,7 +4,7 @@
 
 # Conceptos
 
-## [-----------------------------------Programacion-----------------------------------------]
+## [---------------------------------------Programacion---------------------------------------------]
 
 ### La programacion es el proceso de diseñar y escribir un conjunto de instrucciones precisas que una 
 computadora pueda entender y ejecutar. funciona como una receta de cocina, donde una serie de pasos 
