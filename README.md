@@ -20,7 +20,7 @@ resolver un problema,  ejecutar una tarea o realizar un cálculo. En términos s
 que una receta de cocina: una serie de pasos que transforman ciertos elementos iniciales (datos) en un
 resultado final.
 
-## [--------------------------------------------Programa--------------------------------------------------]
+<h2 align="center">Programa</h2>
 
 ### Un programa es una secuencia de instrucciones escritas en un lenguaje de programación. Su función
 principal es indicarle a un dispositivo (como una computadora o un teléfono) que realice unatarea 
