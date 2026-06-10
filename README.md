@@ -1,6 +1,6 @@
 <h1 align="center">Practica_Axel/nahomi</h1> 
 
-<h1 align="center">[                Actividades                 ]</h1>
+<h2 align="center">[                Actividades                 ]</h2>
 
 
 # Conceptos
