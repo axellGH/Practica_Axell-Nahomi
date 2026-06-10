@@ -7,5 +7,4 @@
 # por fin
 ```Texto
 
-```md
-#  Practica_Axel/nahomi
+# Hola
