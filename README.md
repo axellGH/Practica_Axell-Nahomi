@@ -4,8 +4,9 @@
 
 # Conceptos
 
-<p align="center">Programacion
-</p>
+<p align="center">
+        Programacion
+  </p>
 
 
 ### La programacion es el proceso de diseñar y escribir un conjunto de instrucciones precisas que una 
